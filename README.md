@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddu Hadapd</h1>
 <h3 align="center">Experienced Software Engineer with a demonstrated history of working in the computer software industry. Skilled in Ruby, Java, Javascript and Angular.Focused on learning new technologies and gaining higher education while keeping up with the software industry.</h3>
 
-<p align="left"> <img src="https://res.cloudinary.com/de1vofu0x/image/upload/v1675842669/8iuh44mjl60r89sbpf5bdl37j7tc.jpg" alt="siddu" /> </p>
+<p align="left"> <img src="#" alt="siddu" /> </p>
 
 - 🌱 I’m currently learning **Springboot, Microservice architecture**
 
